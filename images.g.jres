@@ -1,0 +1,17 @@
+{
+    "^s2RwF3S~?}~Mt+/@~_D": {
+        "data": "hwQQABAAAABERERERERERJSZmZmZmZlJlP//////n0mU//////+fSZT/EZGZ+Z9JlP8RkSL5n0mU//GRKfmfSZT/EUQp+Z9JlP8RRCn5n0mU//GRKfmfSZT/EZEi+Z9JlP8RkZn5n0mU//////+fSZT//////59JlJmZmZmZmUlERERERERERA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Player"
+    },
+    "I@3,9rI/9kXOc@jW-|dK": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Level"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
